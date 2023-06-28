@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ahyoung&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=AhYoung&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 <h2>Hi, I'm Frontend Engineer, <a href='https://dev-ang.tistory.com'>Ah-Young Jang</a></h2>
